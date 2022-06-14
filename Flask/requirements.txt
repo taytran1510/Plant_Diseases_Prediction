@@ -1,0 +1,5 @@
+numpy
+pandas
+Flask
+Pillow
+gunicorn == 20.0.4
